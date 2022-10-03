@@ -3,7 +3,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-trilha-explorer">Trilha Exporer</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-o-que-aprendi">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-o-que-aprendi">O que aprendi</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
 </p>
@@ -12,7 +12,7 @@
 <img src="https://raw.githubusercontent.com/DuarteRenan/nlw-esports-continue/main/public/assets/test.png"/>
 </p>
 
-> Trilha Explorer
+## Trilha Explorer
 
 Projeto construído durante o evento Next Level Week da Rocketseat e continuado através as aulas com o Mayk Brito.
 
