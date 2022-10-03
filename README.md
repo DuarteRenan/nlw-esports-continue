@@ -19,7 +19,7 @@ Projeto construído durante o evento Next Level Week da Rocketseat e continuado 
 
 ## ✨ Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-- [HTML e CSS] (https://www.w3schools.com/)
+- [HTML e CSS](https://www.w3schools.com/)
 - [Javascript](https://www.javascript.com/)
 - [React](https://reactjs.org)
 - [Swiper](https://swiperjs.com/)
