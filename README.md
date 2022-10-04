@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/DuarteRenan/nlw-esports-continue/main/public/assets/test.png"/>
+<img src="https://raw.githubusercontent.com/DuarteRenan/nlw-esports-continue/main/public/assets/previewer.png"/>
 </p>
 
 ## Trilha Explorer
